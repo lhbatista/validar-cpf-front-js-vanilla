@@ -1,4 +1,4 @@
-const URL="https://itau-turma6b-luis-front.herokuapp.com/validacpf?cpf="
+const URL="https://https://itau-turma6b-luis-be.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
